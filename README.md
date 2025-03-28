@@ -13,7 +13,6 @@ Seja bem-vindo ao meu perfil! Sou uma entusiasta da tecnologia, apaixonada por d
 ### 💡 Metodologias e Ferramentas
 - Scrum e Kanban
 - SAFe (Scaled Agile Framework)
-- Desenvolvimento Low-Code
 
 ### 🌟 Projetos e Experiências
 - **Hackathons**: Participação em eventos acadêmicos e desafios tecnológicos
